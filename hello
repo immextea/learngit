@@ -12,3 +12,5 @@ this is a branch for test if no checkout master can merge a branch !
 Creating a new branch is quick and simple.
 
 add merge : --no-off
+
+test for git stash function!
